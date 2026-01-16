@@ -1,7 +1,7 @@
 
   # Investor Readiness Platform
 
-  This is a code bundle for Investor Readiness Platform. The original project is available at https://www.figma.com/design/SWOtWGUGPQ5bGIX7lRpDXw/Investor-Readiness-Platform.
+  This is a code bundle for Investor Readiness Platform. 
 
   ## Running the code
 
